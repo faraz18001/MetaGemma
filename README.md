@@ -1,5 +1,3 @@
-
-```markdown
 ## MetaGemma: Empowering LLMs with Meta-Learning for Enhanced Performance
 
 ### Overview
